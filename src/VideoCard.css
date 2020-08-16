@@ -1,0 +1,9 @@
+.videoCard{
+  margin-bottom:50px;
+  width:270px;
+}
+
+.videoCard__thumbnail{
+  width:250px;
+  height:140px;
+}
